@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Intelligent Traffic Monitoring and Road Safety System",
+  "description": "Real-time intelligent traffic monitoring and road safety system featuring YOLO object detection, vehicle tracking & counting, live webcam & video analysis, traffic density calculation, violation detection, and ANPR plate recognition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
